@@ -26,3 +26,6 @@ print(jon.first_name)
 jon.all_pets.append(demon)
 
 jon.walk(0).feed(0).bathe(0)
+
+
+#todo Checking for changes
